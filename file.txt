@@ -1,1 +1,10 @@
-Initial content
+<<<<<<< HEAD
+Changes in master
+<<<<<<< HEAD
+=======
+Changes in branch1
+>>>>>>> branch1
+=======
+Changes in branch1
+
+>>>>>>> d677983670694b677a483df28ffd8459d737c248
